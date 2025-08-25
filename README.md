@@ -35,9 +35,13 @@ Tech Stack
 Frontend: HTML, CSS, JavaScript
 
 APIs Used:
+
   1.OpenWeatherMap API
+  
   2.Geolocation API
+  
   3.FlagCDN API
+  
   4.OpenWeatherMap Icons API
 
 
