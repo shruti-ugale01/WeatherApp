@@ -6,6 +6,7 @@ App that shows real-time weather updates for any location, built with HTML, CSS,
 
 
 
+
 Features:
 
 Your Weather – Fetches weather using your current location (via Geolocation API).
