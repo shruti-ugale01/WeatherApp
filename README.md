@@ -2,6 +2,10 @@
 App that shows real-time weather updates for any location, built with HTML, CSS, and JavaScript.
 
 
+<img width="1118" height="567" alt="image" src="https://github.com/user-attachments/assets/fae9f735-804f-403e-9a6d-82619a7a6c5a" />
+
+
+
 Features:
 Your Weather – Fetches weather using your current location (via Geolocation API).
 Search Weather – Search and view weather details for any city worldwide.
@@ -24,4 +28,4 @@ APIs Used:
 
 
 
-<img width="1660" height="838" alt="Screenshot 2025-08-25 142145" src="https://github.com/user-attachments/assets/11f74753-603e-469f-b7ac-e9d6b446af13" />
+
