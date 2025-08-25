@@ -2,6 +2,7 @@
 App that shows real-time weather updates for any location, built with HTML, CSS, and JavaScript.
 
 
+
 <img width="1118" height="567" alt="image" src="https://github.com/user-attachments/assets/fae9f735-804f-403e-9a6d-82619a7a6c5a" />
 
 
